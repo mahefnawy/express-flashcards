@@ -12,5 +12,6 @@ Using:
 Getting Started:
 ---------------
 npm install => to install all dependencies to node_modules 
+
 npm start => to start the server and listen on port 3000
 ___________________________________________________________________________________
