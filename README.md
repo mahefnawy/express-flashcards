@@ -9,7 +9,8 @@ Using:
 2. Express.js as backend framework (Route Handling)
 3. Pug (formerly known as Jade) for templating (templating engine)
 
-To Run the App:
+Getting Started:
 ---------------
-npm start
+npm install => to install all dependencies to node_modules 
+npm start => to start the server and listen on port 3000
 ___________________________________________________________________________________
