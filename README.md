@@ -1,7 +1,7 @@
 _________________________________________________________________________________
 express-flashcards
 ------------------
-An App to help you study web-development, based on Team Treehouse express course
+An App to help you study web-development
 
 Using:
 ------
